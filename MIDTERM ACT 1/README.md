@@ -48,4 +48,8 @@
  
 ---
 ## **STEP 3. Design the MODEL using a Class Diagram** (You may use draw.io to represent the Blueprint of all the class that you need to create)
-https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/blob/main/MIDTERM%20ACT%201/Image/Class%20Diagram%201.png?raw=true
+<img alt="image" src="https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/blob/main/MIDTERM%20ACT%201/Image/Class%20Diagram%201.png?raw=true" />
+
+---
+## **STEP 4. Implement the class using Java code** construct of each interacting entities that you have identified.
+
