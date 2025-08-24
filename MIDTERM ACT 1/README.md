@@ -52,5 +52,14 @@
 
 ---
 ## **STEP 4. Implement the class using Java code** construct of each interacting entities that you have identified.
-<img align="Left" src="https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/blob/main/MIDTERM%20ACT%201/Image/Methods/Patient%20Method.png?raw=true" height="500">
+
+<img  src="https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/blob/main/MIDTERM%20ACT%201/Image/Methods/Patient%20Method.png?raw=true" >
+<img  src="https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/blob/main/MIDTERM%20ACT%201/Image/Methods/Patient%20Method%202.png?raw=true" >
+<img  src="https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/blob/main/MIDTERM%20ACT%201/Image/Methods/Patient%20Method%203.png?raw=true" >
+<img  src="https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/blob/main/MIDTERM%20ACT%201/Image/Methods/HosRoom%20Method.png?raw=true" >
+<img  src="https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/blob/main/MIDTERM%20ACT%201/Image/Methods/Hospital%20Flow%20Method.png?raw=true" >
+<img  src="https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/blob/main/MIDTERM%20ACT%201/Image/Methods/Main%20Method.png?raw=true" >
+
+---
+## **Note: Highlight all the outputs following the example from STEP 1 to STEP 4 as shown in the lecture**
 
