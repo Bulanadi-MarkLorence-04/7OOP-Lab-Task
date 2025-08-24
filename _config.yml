@@ -1,6 +1,3 @@
 title: "Bulanadi Mark Lorence"
 description: "My portfolio website"
 remote_theme: pages-themes-cayman
-
-  includes:
-  - _includes/head-custom.html
