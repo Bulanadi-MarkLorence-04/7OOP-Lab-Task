@@ -52,5 +52,5 @@
 
 ---
 ## **STEP 4. Implement the class using Java code** construct of each interacting entities that you have identified.
-<img align="right" src="" width="170" height="160">
+<img align="Left" src="https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/blob/main/MIDTERM%20ACT%201/Image/Methods/Patient%20Method.png?raw=true" height="500">
 
