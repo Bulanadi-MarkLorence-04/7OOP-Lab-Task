@@ -52,4 +52,5 @@
 
 ---
 ## **STEP 4. Implement the class using Java code** construct of each interacting entities that you have identified.
+<img align="right" src="" width="170" height="160">
 
