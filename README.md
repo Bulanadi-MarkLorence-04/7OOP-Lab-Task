@@ -46,7 +46,7 @@ I am always ready to **listen, support**, and discover new skills that help me g
 ## 💻 My Projects  
 
 ### 🧪 MIDTERM  
-**MIDTERM LAB TASK 1:** [📂 Paired Task 1](https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/tree/f702bff5ea8095d73600b572d510121cd0f38b0e/MIDTERM%20ACT%201)
+**MIDTERM LAB TASK 1:** [📂 Paired Task 1](https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/tree/57bfa53355d0b1d465ff811e20d84987443560a7/MIDTERM%20ACT%201)
 
 **MIDTERM LAB TASK 2:** [📂 Data Cleaning and Transformation Using Power Query Editor](https://github.com/Nonchalants/Portfolio/tree/main/Midterm%20Lab%20Task%202#readme)  
 **MIDTERM LAB TASK 3:** [📂 Creating Pivot Table and Dashboard](https://github.com/Nonchalants/Portfolio/tree/main/MIDTERM%20LAB%20TASK%203#readme)  
