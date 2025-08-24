@@ -1,1 +1,16 @@
+title: "Portfolio"
+description: ""
+author: Lorence
+remote_theme: pages-themes/chirpy@v0.2.0
+logo: ""
 
+show_downloads: true
+
+github:
+  is_project_page: true
+
+plugins:
+  - jekyll-remote-theme
+
+include:
+  - images
