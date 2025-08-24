@@ -4,3 +4,6 @@ remote_theme: pages-themes-cayman
 
 plugins:
   - jekyll-remote-theme
+
+  includes:
+  - _includes/head-custom.html
