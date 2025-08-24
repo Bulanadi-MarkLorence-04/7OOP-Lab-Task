@@ -1,0 +1,15 @@
+title: "Portfolio"
+description: "oop"
+author: lorence
+theme: minimal-mistakes-jekyll
+logo: 
+show_downloads: true
+
+github:
+  is_project_page: true
+
+plugins:
+  - jekyll-remote-theme
+
+include:
+  - images
