@@ -2,8 +2,7 @@
 
 <img align="right" src="https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/blob/main/Images/prof%5B1%5D.png?raw=true" width="170" height="160">
 
-Welcome to my ***Object Oriented* Portfolio**! This portfolio contains my 7OOP lab exercises, showcasing my skills in organizing, coding, 
-and handling data based on what I learned in class. It reflects my progress and understanding of the subject.
+"This **object-oriented portfolio** is a testament to my growth and learning in the realm of programming, showcasing a variety of projects that highlight my skills. Within these pages, you'll find a compilation of my **7OOP lab exercises**, each representing a milestone in my understanding of OOP principles. From data structures to algorithm implementation, these projects illustrate my commitment to mastering the art of coding and my passion for creating efficient, well-designed software solutions."
 
 ---
 
