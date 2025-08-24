@@ -1,5 +1,8 @@
 # 7OOP-Lab-Task
-<img src=" width="300">
+
+
+<img align="right" src="https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/blob/9693d2661b3ec79df9b1ae39113a0896d7c56ca8/1755351416026~2%5B1%5D.jpg?raw=true" width="150" height="150">
+
 Welcome to my ***Object Oriented* Portfolio**! This portfolio contains my 7OOP lab exercises, showcasing my skills in organizing, coding, 
 and handling data based on what I learned in class. It reflects my progress and understanding of the subject.
 
