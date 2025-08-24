@@ -1,5 +1,5 @@
 # 7OOP-Lab-Task
-
+<img src=" width="300">
 Welcome to my ***Object Oriented* Portfolio**! This portfolio contains my 7OOP lab exercises, showcasing my skills in organizing, coding, 
 and handling data based on what I learned in class. It reflects my progress and understanding of the subject.
 
