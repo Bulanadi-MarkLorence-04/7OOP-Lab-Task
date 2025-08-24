@@ -1,9 +1,0 @@
-.page-header {
-  background: url("/assets/images/header-https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/blob/main/Images/futures.png") no-repeat center center;
-  background-size: cover;
-  color: white; /* make text readable */
-}
-
-.project-name, .project-tagline {
-  text-shadow: 2px 2px 5px rgba(0,0,0,0.6); /* add shadow for readability */
-}
