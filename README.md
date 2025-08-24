@@ -1,5 +1,5 @@
 # 7OOP-Lab-Task
-<img src="https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/blob/main/Images/20250824_114415%5B1%5D.jpg?raw=true" width="1100" height="150">
+<img width="1100" height="150" alt="image" src="https://github.com/user-attachments/assets/2b6ed4a2-a832-4575-a7cd-a2bebabed00f" />
 
 <img align="right" src="https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/blob/9693d2661b3ec79df9b1ae39113a0896d7c56ca8/1755351416026~2%5B1%5D.jpg?raw=true" width="150" height="150">
 
