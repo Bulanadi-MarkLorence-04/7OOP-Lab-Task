@@ -1,19 +1,17 @@
 /* General Body Styles */
-body { /* Or whichever element has the background */
-  background-image: url("https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/blob/main/Images/finalbg.gif?raw=true");
+body {
+  /* Or whichever element has the background */
+  background-image: url("https://raw.githubusercontent.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/refs/heads/main/Images/finalbg.gif"); /* Replace with your image URL */
   background-repeat: no-repeat; /* Prevents the image from repeating */
-  background-position: center; /* Positions the image at the top, centered horizontally */
-  backgound-size: 1920px 1080px;/* Cover the entire area */
+  background-position: top center; /* Positions the image at the top, centered horizontally */
+  background-size: 1920px 1080px; /* Sets the exact size of the background */
   /* Add padding to create space below the background image */
   padding-top: 300px; /* Adjust value as needed to leave space for the background */
+  min-height: 1080px; /* Ensure the body is at least as tall as the background */
 }
 
 /* Header Styles */
-header {
-
-
-
-}
+header {}
 
 header h1 {
   /* Galactic Blue Theme */
@@ -24,7 +22,7 @@ header h1 {
 }
 
 header h2 {
-  color: #558f8d ; /* Purple for the description */
+  color: #558f8d; /* Purple for the description */
   font-size: 1.2em;
   font-weight: normal;
 }
@@ -38,7 +36,7 @@ a {
 
 a:hover {
   color: #FFFFFF; /* Change to white on hover */
-  text-decoration: none ;
+  text-decoration: none;
 }
 
 /* Button Styles */
@@ -79,11 +77,9 @@ a:hover {
 
 /* Footer */
 footer {
-  background-color: ;
+  background-color: ; /* Add a color value here */
   border-top: 1px solid #373737;
   padding: 10px 0;
   text-align: center;
   color: #FFFFFF;
 }
-Sent
-Write to Dump Zhian
