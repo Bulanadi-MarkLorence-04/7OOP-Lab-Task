@@ -4,7 +4,7 @@ body {
   background-image: url("https://gifdb.com/images/high/gfycat-network-background-7ceo8pg1xxgcqj90.gif"); /* Replace with your image URL */
   /*background-repeat: no-repeat; /* Prevents the image from repeating */
   background-position: center; /* Positions the image at the top, centered horizontally */
-  background-size: 1200px 1080px; /* Sets the exact size of the background */
+  background-size: 1600px 1400px; /* Sets the exact size of the background */
   /* Add padding to create space below the background image */
   padding-top: 300px; /* Adjust value as needed to leave space for the background */
   min-height: 1080px; /* Ensure the body is at least as tall as the background */
