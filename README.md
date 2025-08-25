@@ -18,9 +18,9 @@
 ---
 
 ## 🎓 Education
-#### **Senior High School:** Asian Institute of Science and Technologies(GAS Strand) ✅  
-#### **Junior High School:** Malabacat Community High School
-#### **Elementary:** Santa Teresita Elementary School
+ **Senior High School:** Asian Institute of Science and Technologies(GAS Strand) ✅  
+ **Junior High School:** Malabacat Community High School
+ **Elementary:** Santa Teresita Elementary School
 
 ---  
 
@@ -40,6 +40,7 @@
 **MIDTERM LAB TASK 1:** [📂 Object Oriented Analysis](https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/tree/57bfa53355d0b1d465ff811e20d84987443560a7/MIDTERM%20ACT%201)
 
 Coming Soon...🔥 
+
 --- 
 
 ## ⚡ Fun Fact About Me:
@@ -79,6 +80,8 @@ Coming Soon...🔥
   </a>
   &nbsp;&nbsp;
 </p>
+
+---
 
 readme.md
 Displaying readme.md.
