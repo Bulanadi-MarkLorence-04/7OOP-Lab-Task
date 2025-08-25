@@ -11,7 +11,7 @@ header {
   background-image: url("https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/blob/main/Images/fut.gif?raw=true");
   background-size: cover ;
   background-repeat: repeat ; 
-  background-position: fix ;
+  background-position: fixed ;
 }
 
 header h1 {
