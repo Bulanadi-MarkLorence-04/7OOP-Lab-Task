@@ -28,7 +28,7 @@
 ---  
 
 ## 📜 Languages I used before 
-<p align="left"> 
+<p align="center"> 
 <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="50"/>
 &nbsp;&nbsp;
 <img src="https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/blob/main/Images/java.jpg?raw=true" height="50"/>
