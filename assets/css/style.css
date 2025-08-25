@@ -10,9 +10,11 @@ body {
 
 /* Header Styles */
 header {
-  background-image: url("https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/blob/main/Images/fut.gif?raw=true");
-  background-size: 100% 100% ; 
-  background-position: 100% 100% ;
+
+<p align="center">
+<img src="https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/blob/main/Images/prof%5B1%5D.png?raw=true" width="170" height="160">
+</p>
+
 }
 
 header h1 {
@@ -62,7 +64,7 @@ a:hover {
 /* Content Wrapper */
 #content-wrapper {
   background-image: url("https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/blob/main/Images/bgtalags.gif?raw=true");
-  background-size: 100% 100%;
+  background-size: 50% 50%;
   background-repeat: no-repeat;
   padding: 20px;
 }
