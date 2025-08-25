@@ -7,7 +7,7 @@ body {
   background-position: center; /* Positions the image at the top, centered horizontally */
   background-size: 1900px 1600px; /* Sets the exact size of the background */
   /* Add padding to create space below the background image */
-  padding-top: 300px; /* Adjust value as needed to leave space for the background */
+/* Adjust value as needed to leave space for the background */
   min-height: 1080px; /* Ensure the body is at least as tall as the background */
 }
 
