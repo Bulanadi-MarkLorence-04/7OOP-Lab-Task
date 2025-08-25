@@ -60,39 +60,70 @@ a:hover {
   text-decoration: none;
 }
 
+/* Base styles for main content */
 #main-content {
-  margin-right: 300px;
-  color: #FFFFFF;
-  font-size: 1.2em;
-  font-family: 'Georgia', serif;
+  margin-right: 300px; /* Adjust for sidebar width */
+  color: #333; /* Dark gray text for readability */
+  font-family: 'Arial', sans-serif; /* A clean, readable font */
+  font-size: 16px;
   line-height: 1.6;
-  text-align: center; /* Center the entire block */
+  text-align: left; /* Align text to the left */
 }
 
-#main-content ol { /* Or #main-content ol if you're using an ordered list */
-    display: inline-block; /* Make the list behave like an inline element */
-    text-align: left; /* Justify the text within the list */
-    margin: 80%; /* Remove default margins */
-    padding: 0; /* Remove default padding */
-    width: 80%; /* Limit the width of the list */
-    max-width: 500px; /* Set a maximum width */
-    margin-left: 50%; /* Center the list */
-    margin-right: 50%; /* Center the list */
+/* Header styles */
+#main-content h1 {
+  font-size: 2.2em;
+  color: #222;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+  border-bottom: 1px solid #ccc; /* Add a subtle underline */
+  padding-bottom: 0.3em;
 }
 
-#main-content ol li { /* Or #main-content ol li */
-    list-style-position: inside; /* Keep bullets inside the content area */
-    text-align: justify; /* Justify the text */
+#main-content h2 {
+  font-size: 1.8em;
+  color: #333;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
 }
 
-#main-content ol li:after {
-    content: "";
-    display: inline-block;
-    width: 100%;
+#main-content h3 {
+  font-size: 1.4em;
+  color: #444;
+  margin-top: 1.2em;
+  margin-bottom: 0.5em;
 }
-Sent
-Write to Dump Zhian
 
+/* Paragraph styles */
+#main-content p {
+  margin-bottom: 1em;
+}
+
+/* Code block styles */
+#main-content pre {
+  background-color: #f7f7f7;
+  border: 1px solid #ddd;
+  padding: 10px;
+  overflow-x: auto; /* Enable horizontal scrolling for long code lines */
+  font-family: 'Courier New', monospace; /* Monospace font for code */
+  font-size: 14px;
+}
+
+/* Blockquote styles */
+#main-content blockquote {
+  border-left: 5px solid #eee;
+  padding-left: 15px;
+  margin: 1em 0;
+  font-style: italic;
+  color: #666;
+}
+
+/* Horizontal rule styles */
+#main-content hr {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 1.5em 0;
+}
 
 /* Sidebar Styles */
 #sidebar {
