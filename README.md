@@ -71,7 +71,7 @@ Hi, I'm passionate about crafting engaging and user-friendly portfolio experienc
 
 ## 📞 Click Below to Connect with Me!   
 
-<p align="left">
+<p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mbulanadi24-0484@cca.edu.ph" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
   </a>
