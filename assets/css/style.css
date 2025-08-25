@@ -3,7 +3,8 @@ body { /* Or whichever element has the background */
   background-image: url("https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/blob/main/Images/finalbg.gif?raw=true");
   background-repeat: no-repeat; /* Prevents the image from repeating */
   background-position: top center; /* Positions the image at the top, centered horizontally */
-  background-size: cover; /* Cover the entire area */
+  background-size: cover;
+  backgound-size: 100% 59.52% ;/* Cover the entire area */
   /* Add padding to create space below the background image */
   padding-top: 300px; /* Adjust value as needed to leave space for the background */
 }
