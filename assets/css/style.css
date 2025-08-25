@@ -74,7 +74,7 @@ a:hover {
 #main-content ol {
   display: block;          /* Standard block list */
   text-align: left;        /* Align list items to the left */
-  margin: 0 auto;          /* Center the list itself */
+  margin: 0 left;          /* Center the list itself */
   padding: 0;
   width: 80%;              /* Keep list narrower than full content */
   max-width: 500px;
