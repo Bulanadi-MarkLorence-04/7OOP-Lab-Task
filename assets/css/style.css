@@ -9,19 +9,19 @@ body {
 /* Header Styles */
 header {
   background-image: url("https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/blob/main/Images/fut.gif?raw=true");
-  background-size: 120% 100% ; 
+  background-size: 100% 100% ; 
   background-position: 100% 100% ;
 }
 
 header h1 {
-  color: #64FFDA; /* Teal for the main title */
+  color: #26457A; /* blue for the main title */
   font-size: 2.5em;
   margin-bottom: 5px;
   text-shadow: 0 0 10px rgba(100, 255, 218, 0.5); /* Subtle glow */
 }
 
 header h2 {
-  color: #BB86FC; /* Purple for the description */
+  color: #558f8d ; /* Purple for the description */
   font-size: 1.2em;
   font-weight: normal;
 }
