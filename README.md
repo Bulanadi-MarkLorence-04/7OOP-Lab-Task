@@ -10,16 +10,18 @@
  I'm a friendly and dedicated individual with a genuine enthusiasm for software development. I find great satisfaction in collaborating with others to solve complex problems, and I'm committed to continuous learning. Outside of school settings, I love spending time with my family and friends, exploring new things to learn, and being open to other people idea to improve myself whenever possible.
 
 ### What I Believe In:
+
 - The importance of kindness, the power of perseverance, and a lifelong quest for learning.
-
 - The strength of community, the beauty of creativity, and the courage to be authentic.
-
 - The pursuit of happiness, the power of gratitude, and embracing the present moment.
+  
 ---
 
 ## 🎓 Education
  **Senior High School:** Asian Institute of Science and Technologies(GAS Strand) ✅  
- **Junior High School:** Malabacat Community High School
+ 
+ **Junior High School:** Malabacat Community High School  
+ 
  **Elementary:** Santa Teresita Elementary School
 
 ---  
