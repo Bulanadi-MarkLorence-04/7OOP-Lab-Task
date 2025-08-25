@@ -8,7 +8,7 @@ body {
 
 /* Header Styles */
 header {
-  background-image: ("Images/future.png") ;
+  background-image: url("https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/blob/main/Images/futures.png?raw=true");
   border-bottom: 1px solid #373737;
   padding: 20px 0;
   text-align: center;
