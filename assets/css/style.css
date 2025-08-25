@@ -60,70 +60,32 @@ a:hover {
   text-decoration: none;
 }
 
-/* Base styles for main content */
 #main-content {
-  margin-right: 300px; /* Adjust for sidebar width */
-  color: #333; /* Dark gray text for readability */
-  font-family: 'Arial', sans-serif; /* A clean, readable font */
-  font-size: 16px;
+  margin: 0 auto;          /* Centers the whole content block */
+  max-width: 800px;        /* Prevents text from stretching too wide */
+  color: #FFFFFF;
+  font-size: 1.2em;
+  font-family: 'Georgia', serif;
   line-height: 1.6;
-  text-align: left; /* Align text to the left */
+  text-align: center;      /* Center text by default */
+  padding: 20px;
 }
 
-/* Header styles */
-#main-content h1 {
-  font-size: 2.2em;
-  color: #222;
-  margin-top: 1em;
-  margin-bottom: 0.5em;
-  border-bottom: 1px solid #ccc; /* Add a subtle underline */
-  padding-bottom: 0.3em;
+#main-content ol {
+  display: block;          /* Standard block list */
+  text-align: left;        /* Align list items to the left */
+  margin: 0 auto;          /* Center the list itself */
+  padding: 0;
+  width: 80%;              /* Keep list narrower than full content */
+  max-width: 500px;
 }
 
-#main-content h2 {
-  font-size: 1.8em;
-  color: #333;
-  margin-top: 1.5em;
-  margin-bottom: 0.5em;
+#main-content ol li {
+  list-style-position: inside;
+  text-align: justify;
 }
 
-#main-content h3 {
-  font-size: 1.4em;
-  color: #444;
-  margin-top: 1.2em;
-  margin-bottom: 0.5em;
-}
 
-/* Paragraph styles */
-#main-content p {
-  margin-bottom: 1em;
-}
-
-/* Code block styles */
-#main-content pre {
-  background-color: #f7f7f7;
-  border: 1px solid #ddd;
-  padding: 10px;
-  overflow-x: auto; /* Enable horizontal scrolling for long code lines */
-  font-family: 'Courier New', monospace; /* Monospace font for code */
-  font-size: 14px;
-}
-
-/* Blockquote styles */
-#main-content blockquote {
-  border-left: 5px solid #eee;
-  padding-left: 15px;
-  margin: 1em 0;
-  font-style: italic;
-  color: #666;
-}
-
-/* Horizontal rule styles */
-#main-content hr {
-  border: none;
-  border-top: 1px solid #ccc;
-  margin: 1.5em 0;
-}
 
 /* Sidebar Styles */
 #sidebar {
