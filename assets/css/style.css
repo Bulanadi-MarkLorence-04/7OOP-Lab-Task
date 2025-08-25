@@ -1,9 +1,8 @@
 /* General Body Styles */
 body {
   font-family: 'Roboto', sans-serif; /* Modern, clean font */
-  background-image: url("https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/blob/main/Images/bgtalags.gif?raw=true");
-  background-size: 100% 40%;
-  background-repeat: repeat;
+  background-image: url("https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/blob/main/Images/finalbg.gif?raw=true");
+ background-position: fixed;
   color: #FFFFFF;
   line-height: 1.6;
 }
