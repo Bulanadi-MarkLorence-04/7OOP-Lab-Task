@@ -44,8 +44,10 @@
 Coming Soon...🔥 
 
 --- 
+## Area of Interest:
+Hi, I'm passionate about crafting engaging and user-friendly portfolio experiences online. I love blending technical skill with creative design to make websites that are both visually appealing and highly functional. My goal is to create designs that showcase not only the aesthetic but also the robust code and innovative solutions behind each project, and I'm always eager to learn and grow in this ever-evolving field.
 
-## ⚡ Fun Fact About Me:
+### ⚡ Fun Fact About Me:
 
 - 💡 I watch animal documentaries to make my self fall asleep. 😅  
 - 🖥️ I tend to listening to other peolple experiences cause I can learn from it.  
