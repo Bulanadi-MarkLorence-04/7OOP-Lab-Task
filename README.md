@@ -86,6 +86,3 @@ Hi, I'm passionate about crafting engaging and user-friendly portfolio experienc
 </p>
 
 ---
-
-readme.md
-Displaying readme.md.
