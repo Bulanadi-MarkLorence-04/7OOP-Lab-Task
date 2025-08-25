@@ -2,8 +2,8 @@
 body {
   font-family: 'Roboto', sans-serif; /* Modern, clean font */
   background-image: url("https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/blob/main/Images/bgtalags.gif?raw=true");
-  background-size: 100% 50%;
-  background-repeat: no-repeat;
+  background-size: 100% 40%;
+  background-repeat: repeat;
   color: #FFFFFF;
   line-height: 1.6;
 }
