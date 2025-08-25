@@ -1,6 +1,5 @@
-<img width="1100" height="150" alt="image" src="https://github.com/user-attachments/assets/2b6ed4a2-a832-4575-a7cd-a2bebabed00f" />
-
-<img align="right" src="https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/blob/main/Images/prof%5B1%5D.png?raw=true" width="170" height="160">
+# 7OOP PORFOLIO LAB TASK
+<img align="center" src="https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/blob/main/Images/prof%5B1%5D.png?raw=true" width="170" height="160">
 
 "This **object-oriented portfolio** is a testament to my growth and learning in the realm of programming, showcasing a variety of projects that highlight my skills. Within these pages, you'll find a compilation of my **7OOP lab exercises**, each representing a milestone in my understanding of OOP principles. From data structures to algorithm implementation, these projects illustrate my commitment to mastering the art of coding and my passion for creating efficient, well-designed software solutions."
 
