@@ -7,7 +7,7 @@
 ---
 
 ## 🌟 About Me
- I'm a friendly and dedicated individual with a genuine enthusiasm for software development, particularly object-oriented programming. I find great satisfaction in collaborating with others to solve complex problems, and I'm committed to continuous learning. Outside of work, I love spending time with my family and friends, exploring new technologies (I'm a bit of a tech enthusiast!), and contributing to open-source projects whenever possible.
+ I'm a friendly and dedicated individual with a genuine enthusiasm for software development. I find great satisfaction in collaborating with others to solve complex problems, and I'm committed to continuous learning. Outside of school settings, I love spending time with my family and friends, exploring new things to learn, and being open to other people idea to improve myself whenever possible.
 
 ### What I Believe In:
 - The importance of kindness, the power of perseverance, and a lifelong quest for learning.
@@ -18,9 +18,9 @@
 ---
 
 ## 🎓 Education
-**Senior High School:** Asian Institute of Science and Technologies(GAS Strand) ✅  
-**Junior High School:** Malabacat Community High School
-**Elementary:** Santa Teresita Elementary School
+#### **Senior High School:** Asian Institute of Science and Technologies(GAS Strand) ✅  
+#### **Junior High School:** Malabacat Community High School
+#### **Elementary:** Santa Teresita Elementary School
 
 ---  
 
