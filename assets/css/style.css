@@ -2,7 +2,7 @@
 body {
   font-family: 'Roboto', sans-serif; /* Modern, clean font */
   background-image: url("https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/blob/main/Images/bgtalags.gif?raw=true");
-  background-size: 100% 100%;
+  background-size: 100% 50%;
   background-repeat: no-repeat;
   color: #FFFFFF;
   line-height: 1.6;
@@ -11,9 +11,7 @@ body {
 /* Header Styles */
 header {
 
-<p align="center">
-<img src="https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/blob/main/Images/prof%5B1%5D.png?raw=true" width="170" height="160">
-</p>
+
 
 }
 
@@ -61,14 +59,6 @@ a:hover {
   text-decoration: none;
 }
 
-/* Content Wrapper */
-#content-wrapper {
-  background-image: url("https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/blob/main/Images/bgtalags.gif?raw=true");
-  background-size: 50% 50%;
-  background-repeat: no-repeat;
-  padding: 20px;
-}
-
 #main-content {
   margin-right: 300px;
 }
@@ -89,7 +79,7 @@ a:hover {
 
 /* Footer */
 footer {
-  background-color: #121212;
+  background-color: ;
   border-top: 1px solid #373737;
   padding: 10px 0;
   text-align: center;
