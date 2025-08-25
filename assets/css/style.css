@@ -1,66 +1,70 @@
 /* General Body Styles */
 body {
-  font-family: sans-serif; /* Modern, clean font */
+  font-family: 'Roboto', sans-serif; /* Modern, clean font */
   background-color: #121212;
   color: #FFFFFF;
-  line-height: 1.6; /* Good readability */
+  line-height: 1.6;
 }
 
 /* Header Styles */
 header {
-  background-color: #121212; /* Match body background */
-  border-bottom: 1px solid #373737; /* Subtle divider */
+  background-color: #121212;
+  border-bottom: 1px solid #373737;
   padding: 20px 0;
-  text-align: center; /* Center the title and description */
+  text-align: center;
 }
 
 header h1 {
   color: #64FFDA; /* Teal for the main title */
   font-size: 2.5em;
   margin-bottom: 5px;
+  text-shadow: 0 0 10px rgba(100, 255, 218, 0.5); /* Subtle glow */
 }
 
 header h2 {
   color: #BB86FC; /* Purple for the description */
   font-size: 1.2em;
-  font-weight: normal; /* Lighter font weight */
+  font-weight: normal;
 }
 
 /* Link Styles */
 a {
-  color: #64FFDA; /* Teal for links */
-  text-decoration: none; /* Remove underlines */
+  color: #64FFDA;
+  text-decoration: none;
+  transition: color 0.3s ease; /* Smooth transition */
 }
 
 a:hover {
-  text-decoration: underline; /* Underline on hover for clarity */
+  color: #FFFFFF; /* Change to white on hover */
+  text-decoration: underline;
 }
 
-/* Button Styles (if you have buttons) */
+/* Button Styles */
 .button {
-  background-color: transparent; /* Clear background */
-  border: 1px solid #64FFDA; /* Teal border */
+  background-color: transparent;
+  border: 1px solid #64FFDA;
   color: #64FFDA;
   padding: 10px 20px;
   border-radius: 5px;
   display: inline-block;
   margin-top: 10px;
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 .button:hover {
-  background-color: #64FFDA; /* Teal background on hover */
-  color: #121212; /* Dark text on hover */
+  background-color: #64FFDA;
+  color: #121212;
   text-decoration: none;
 }
 
 /* Content Wrapper */
 #content-wrapper {
-  background-color: #121212; /* Consistent background */
+  background-color: #121212;
   padding: 20px;
 }
 
 #main-content {
-  margin-right: 300px; /* Adjust for sidebar width */
+  margin-right: 300px;
 }
 
 /* Sidebar Styles */
@@ -68,16 +72,16 @@ a:hover {
   width: 280px;
   float: right;
   background-color: #121212;
-  border-left: 1px solid #373737; /* Subtle divider */
+  border-left: 1px solid #373737;
   padding-left: 20px;
 }
 
 #sidebar a {
-  display: block; /* Make links full width */
+  display: block;
   margin-bottom: 5px;
 }
 
-/* Footer (if you add one) */
+/* Footer */
 footer {
   background-color: #121212;
   border-top: 1px solid #373737;
@@ -85,4 +89,5 @@ footer {
   text-align: center;
   color: #FFFFFF;
 }
-
+Sent
+Write to Dump Zhian
