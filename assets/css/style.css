@@ -69,23 +69,23 @@ a:hover {
   text-align: center; /* Center the entire block */
 }
 
-#main-content ul { /* Or #main-content ol if you're using an ordered list */
+#main-content ol { /* Or #main-content ol if you're using an ordered list */
     display: inline-block; /* Make the list behave like an inline element */
     text-align: left; /* Justify the text within the list */
-    margin: 0; /* Remove default margins */
+    margin: 80%; /* Remove default margins */
     padding: 0; /* Remove default padding */
     width: 80%; /* Limit the width of the list */
     max-width: 500px; /* Set a maximum width */
-    margin-left: auto; /* Center the list */
-    margin-right: auto; /* Center the list */
+    margin-left: 50%; /* Center the list */
+    margin-right: 50%; /* Center the list */
 }
 
-#main-content ul li { /* Or #main-content ol li */
+#main-content ol li { /* Or #main-content ol li */
     list-style-position: inside; /* Keep bullets inside the content area */
     text-align: justify; /* Justify the text */
 }
 
-#main-content ul li:after {
+#main-content ol li:after {
     content: "";
     display: inline-block;
     width: 100%;
