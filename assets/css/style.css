@@ -8,10 +8,10 @@ body {
 
 /* Header Styles */
 header {
-  background-image: url("https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/blob/main/Images/futures.png?raw=true");
-  border-bottom: 1px solid #373737;
-  padding: 20px 0;
-  text-align: center;
+  background-image: url("https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/blob/main/Images/banner%5B1%5D.jpg?raw=true");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachedment: fixed;
 }
 
 header h1 {
