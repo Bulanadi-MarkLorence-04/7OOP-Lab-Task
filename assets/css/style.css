@@ -69,6 +69,16 @@ a:hover {
   line-height: 1.6;         /* Improve readability */
 }
 
+#main-content h2,
+#main-content p,
+#main-content div,
+#main-content hr {
+  margin-left: auto;   /* Set left margin to auto */
+  margin-right: auto;  /* Set right margin to auto */
+  max-width: 80%;    /* Optional: Limit the width to 80% */
+  box-sizing: border-box; /* Include padding and border in the width */
+}
+
 /* Sidebar Styles */
 #sidebar {
   width: 280px;
