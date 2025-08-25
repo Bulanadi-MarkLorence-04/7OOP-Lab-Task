@@ -11,7 +11,7 @@ header {
   background-image: url("https://github.com/Bulanadi-MarkLorence-04/7OOP-Lab-Task/blob/main/Images/banner%5B1%5D.jpg?raw=true");
   background-size: cover;
   background-repeat: no-repeat;
-  background-attachedment: fixed;
+  background-position: 50% 25%;
 }
 
 header h1 {
