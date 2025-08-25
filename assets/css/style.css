@@ -1,8 +1,8 @@
 /* General Body Styles */
 body {
   /* Or whichever element has the background */
-  background-image: url("https://raw.githubusercontent.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/refs/heads/main/Images/finalbg.gif"); /* Replace with your image URL */
-  background-repeat: no-repeat; /* Prevents the image from repeating */
+  background-image: url("https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/blob/main/Images/bgtalags.gif?raw=true"); /* Replace with your image URL */
+  /*background-repeat: no-repeat; /* Prevents the image from repeating */
   background-position: top center; /* Positions the image at the top, centered horizontally */
   background-size: 1920px 1080px; /* Sets the exact size of the background */
   /* Add padding to create space below the background image */
