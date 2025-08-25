@@ -9,9 +9,8 @@ body {
 /* Header Styles */
 header {
   background-image: url("https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/blob/main/Images/fut.gif?raw=true");
-  background-size: cover ;
-  background-repeat: repeat ; 
-  background-position: fixed ;
+  background-size: 120% 100% ; 
+  background-position: 100% 100% ;
 }
 
 header h1 {
