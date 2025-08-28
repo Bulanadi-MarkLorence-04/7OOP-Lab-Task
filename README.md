@@ -52,7 +52,7 @@ Hi, I'm passionate about crafting engaging and user-friendly portfolio experienc
 
 - 💡 I watch animal documentaries to make my self fall asleep. 😅  
 - 🖥️ I tend to listening to other peolple experiences cause I can learn from it.  
-- 🌙 My brain Capacity increases when it totally silent and there's no ones bopthering me.
+- 🌙 My brain Capacity increases when it totally silent and there's no ones bothering me.
 - 🏗️ When I learned Program Coding, it changes my way thinking. 🤷‍♂️  
 - 🛑 I don't like arrays, cause for me they are so hard to manipulate. 😅  
 - 📌 I dont have TikTok that is why i dont follow trends.       
