@@ -1,5 +1,5 @@
-title: Bulanadi
-description: Mark Lorence
+title: Bulanadi, Mark Lorence
+description: From BSCS-C204
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme 
