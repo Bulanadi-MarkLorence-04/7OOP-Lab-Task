@@ -1,36 +1,31 @@
 
-/* General Body Styles */
 body {
-  /* Or whichever element has the background */
-  background-image: url("https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/blob/main/Images/eto_na_talaga%5B1%5D.gif?raw=true"); /* Replace with your image URL */
-  /* background-repeat: no-repeat; /* Prevents the image from repeating */
-  background-position: center; /* Positions the image at the top, centered horizontally */
-  background-size: 1900px 1600px; /* Sets the exact size of the background */
-  /* Add padding to create space below the background image */
-/* Adjust value as needed to leave space for the background */
-  min-height: 1080px; /* Ensure the body is at least as tall as the background */
+  background-image: url("https://github.com/Bulanadi-MarkLorence-04/7OOP-Porfolio/blob/main/Images/eto_na_talaga%5B1%5D.gif?raw=true");
+  background-position: center; 
+  background-size: 1900px 1600px; 
+  min-height: 1080px;
 }
 
-/* Header Styles */
+
 header {
-  text-align: center; /* Center all content in the header */
+  text-align: center; 
 }
 
 header h1 {
-  /* Galactic Blue Theme */
-  color: #4A53A6; /* A deep, spacey blue for the title */
+ 
+  color: #4A53A6; 
   font-size: 2.5em;
   margin-bottom: 5px;
-  text-shadow: 0 0 15px rgba(74, 83, 166, 0.7); /* A slightly brighter blue glow */
+  text-shadow: 0 0 15px rgba(74, 83, 166, 0.7);
 }
 
 header h2 {
-  color: #558f8d; /* Purple for the description */
+  color: #0077b6; 
   font-size: 1.2em;
   font-weight: normal;
 }
 
-/* Link Styles */
+/*link*/
 a {
   color: #64FFDA;
   text-decoration: none;
@@ -38,15 +33,15 @@ a {
 }
 
 a:hover {
-  color: #FFFFFF; /* Change to white on hover */
+  color: #909090; /* Change to white on hover */
   text-decoration: none;
 }
 
 /* Button Styles */
 .button {
   background-color: transparent;
-  border: 1px solid #64FFDA;
-  color: #64FFDA;
+  border: 1px solid #00b4d8;
+  color: #90e0ef;
   padding: 10px 20px;
   border-radius: 5px;
   display: inline-block;
@@ -55,28 +50,28 @@ a:hover {
 }
 
 .button:hover {
-  background-color: #64FFDA;
+  background-color: #00b4d8 ;
   color: #121212;
   text-decoration: none;
 }
 
 #main-content {
-  margin: 0 auto;          /* Centers the whole content block */
-  max-width: 800px;        /* Prevents text from stretching too wide */
+  margin: 0 auto;         
+  max-width: 800px;        
   color: #FFFFFF;
   font-size: 1.2em;
   font-family: 'Georgia', serif;
   line-height: 1.6;
-  text-align: center;      /* Center text by default */
+  text-align: center;     
   padding: 20px;
 }
 
 #main-content ol {
-  display: block;          /* Standard block list */
-  text-align: left;        /* Align list items to the left */
-  margin: 0 left;          /* Center the list itself */
+  display: block;          
+  text-align: left;       
+  margin: 0 center;          
   padding: 0;
-  width: 80%;              /* Keep list narrower than full content */
+  width: 80%;              
   max-width: 500px;
 }
 
@@ -103,8 +98,8 @@ a:hover {
 
 /* Footer */
 footer {
-  background-color: ; /* Add a color value here */
-  border-top: 1px solid #373737;
+  background-color: transparent ; 
+  border-top: 1px solid transparent;
   padding: 10px 0;
   text-align: center;
   color: #FFFFFF;
