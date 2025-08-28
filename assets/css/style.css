@@ -85,9 +85,9 @@ a:hover {
 /* Sidebar Styles */
 #sidebar {
   width: 280px;
-  float: right;
-  background-color: #121212;
-  border-left: 1px solid #373737;
+  float: center;
+  background-color: transparent;
+  border-left: 1px solid transparent;
   padding-left: 20px;
 }
 
